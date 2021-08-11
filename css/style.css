@@ -1,0 +1,25 @@
+/* .container{
+    width: 870px;
+} */
+
+/* #section-devider{
+width: 80%;
+left: 315px;
+top: 410px;
+
+
+} */
+
+.filled-star, .empty-star{
+    width: 12.39px;
+    height: 11.81;
+    margin: 3px;
+}
+
+.filled-star{
+    color: gold;
+}
+
+.empty-star{
+    color: lightgrey;
+}
